@@ -40,6 +40,12 @@ body{
     padding: 0.5rem 1rem;
 
 }
+.desc{
+    align-items: end;
+    height: 5%;
+    width: 11%;
+    margin-top: 7%;
+}
 #add_btn{
     padding: 0.5rem 1rem;
     background-color: #ccc;
